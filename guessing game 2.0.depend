@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698919833 source:c:\users\sarah\downloads\new folder\wise\guessing game 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
